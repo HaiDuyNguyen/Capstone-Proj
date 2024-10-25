@@ -1,2 +1,2 @@
 # Capstone-Proj
-Capstone project Python files
+One Python file for the Capstone project and one modified file to run on Streamlit
